@@ -1,0 +1,28 @@
+# Panda theme
+# Converted from https://gist.github.com/nb5p/4d6f9bc2fc38600ecbbe4539610a4e0a
+colors:
+  primary:
+    background: '#292A2B'
+    foreground: '#CCCCCC'
+
+  # Normal colors
+  normal:
+    black: '#000000'
+    red: '#EC2864'
+    green: '#35FFDC'
+    yellow: '#FFB86C'
+    blue: '#4876D6'
+    magenta: '#B084EB'
+    cyan: '#7DC1FF'
+    white: '#FFFFFF'
+
+  # Bright colors
+  bright:
+    black: '#7A8181'
+    red: '#F76E6E'
+    green: '#13FFDC'
+    yellow: '#DAC26B'
+    blue: '#5CA7E4'
+    magenta: '#FF9AC1'
+    cyan: '#00C990'
+    white: '#989FB1'
